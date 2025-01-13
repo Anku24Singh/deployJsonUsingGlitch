@@ -47,5 +47,23 @@
       "text": "Awesome post!",
       "postId": "5"
     }
+  ],
+  "todos":[
+    {
+      "id":1,
+      "name":"Learn Json"
+    },
+    {
+      "id":2,
+      "name":"Learn React"
+    },
+    {
+      "id":3,
+      "name":"Learn C++"
+    },
+    {
+      "id":4,
+      "name":"Learn Javascript"
+    }
   ]
 }
